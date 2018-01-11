@@ -11,6 +11,18 @@ Merkkijonot ja taulukot
 ## 5-6 viikot
 Metodit, luokka ja olio
 
+## 7-8 viikot
+List, map ja periytyminen
+
+## 9-10 viikot
+Tietokantaohjelmoinnin perusteet
+
+## 11-12 viikot
+Java EE, perusteet I
+
+## 13-14 viikot
+Java EE, perusteet II
+
 ## Lisätietoa kurssista ja sen sisällöstä: 
 Linkki HH:n opintojaksoluettelosta löytyvään Ohjelmointi -kurssin infoon:
 
