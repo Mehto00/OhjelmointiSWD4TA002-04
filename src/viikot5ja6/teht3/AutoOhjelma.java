@@ -23,9 +23,9 @@ public class AutoOhjelma {
         // Asking the information from user
         try {
             System.out.print("Anna merkki: ");
-            auto.setBrand(auto.toTitleCase(input.next()));
+            auto.setBrand(Auto.toTitleCase(input.next()));
             System.out.print("Anna malli: ");
-            auto.setModel(auto.toTitleCase(input.next()));
+            auto.setModel(Auto.toTitleCase(input.next()));
             System.out.print("Anna rekisterinumero: ");
             auto.setLicenceNumber(input.next().toUpperCase());
             System.out.print("Anna vuosimalli: ");
