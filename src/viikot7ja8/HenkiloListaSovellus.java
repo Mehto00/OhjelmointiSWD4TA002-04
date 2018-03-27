@@ -8,7 +8,6 @@ lisätä ja käsitellä listalla olevia henkilöitä.
 package viikot7ja8;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class HenkiloListaSovellus {
    private Lukija lukija = new Lukija();

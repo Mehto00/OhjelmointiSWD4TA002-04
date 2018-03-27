@@ -17,7 +17,6 @@ public class Henkilo {
         this.nimi = nimi;
     }
 
-
     public Henkilo(String nimi, String osoite, Koko koko) {
         this.nimi = nimi;
         this.osoite = osoite;
